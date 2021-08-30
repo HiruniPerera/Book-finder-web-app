@@ -1,0 +1,39 @@
+body {
+
+    background-image: url("imgs/freddie-marriage-w8JiSVyjy-8-unsplash.jpg");
+    background-color: #e0ecf0;
+
+    height: 850px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+    margin: auto;
+    margin-top: 200px;
+}
+
+#header {
+    font-family: 'Righteous', sans-serif;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: 'Righteous', sans-serif;
+}
+
+.book-list {
+    margin-top: 50px;
+    visibility: hidden;
+}
+
+h1 {
+    color: rgb(31, 30, 30);
+    font-size: 5rem;
+}
+
+input.search {
+    padding-left: 0 15px;
+}
